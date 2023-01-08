@@ -27,9 +27,6 @@ https://spamhampredictioncicd.herokuapp.com/
 
 Note: In link 2 CI-CD pipeline has been integrated using CircleCI
 
-# Demo 
-
-https://user-images.githubusercontent.com/72372136/144083595-7005d8eb-36e1-40f8-be24-5a7175f2c914.mp4
 
 # Technical Aspects
 
@@ -57,11 +54,6 @@ Run the app - python app.py
 # User Interface
 
 #### A very simple UI where text area is provided. In this text area, User need to write their message into this text area and then they can classify their message by clicking on predict button.
-![spam_UI_1](https://user-images.githubusercontent.com/72372136/144047101-aac34286-9799-4e15-800c-592b438ec4cd.JPG)
-
-![spam_UI_2](https://user-images.githubusercontent.com/72372136/144047517-a0ef67ac-5487-4d92-b9ca-01c7eaa4d9aa.JPG)
-
-![spam_UI_3](https://user-images.githubusercontent.com/72372136/144047564-bb3ef58e-e65e-4d86-bce5-50736cfb3452.JPG)
 
 # Workflow
 
